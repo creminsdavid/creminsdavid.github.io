@@ -1,3 +1,9 @@
-html {
-  background-color: green;
+header h1 {
+  font-family: 'Baskerville', sans-serif;
+  padding: 20px 0;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
 }
