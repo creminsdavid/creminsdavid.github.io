@@ -1,7 +1,7 @@
-html, header, body, nav { /* , header, body */
+html, header, body { /* */
    /* http://gradcolor.com/ */
   background: url(imgres.jpg) repeat-x;
-  list-style-type: none;
+
 }
 
 header h1 {
@@ -12,4 +12,5 @@ header h1 {
 header nav {
   display: flex;
   justify-content: flex-end;
+  list-style-type: none;
 }
