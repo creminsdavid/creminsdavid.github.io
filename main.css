@@ -1,10 +1,10 @@
-html, body, header {
+html, header {
   background-color: #A0CFEC; /* #C26C36 complement */
 }
 
 header h1 {
   font-family: 'Baskerville', sans-serif;
-  padding: 20px 0;
+  /* padding: 20px 0; */
 }
 
 header nav {
