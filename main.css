@@ -1,4 +1,4 @@
-header, body { /* */
+header, body { /* may not need body, may extend w/ more content? */
    /* http://gradcolor.com/ */
   background: url(imgres.jpg) repeat-x;
 
@@ -15,9 +15,10 @@ header nav {
 }
 
 #contact li {
+ padding: 25px 25px 25px 25px;
  display: block;
  float: left;
- width: 50px;
- height: 50px;
+ width: 100px;
+ height: 100px;
  overflow: hidden;
 }
