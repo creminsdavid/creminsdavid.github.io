@@ -1,6 +1,6 @@
 header, body { /* may not need body, may extend w/ more content? */
    /* http://gradcolor.com/ */
-  background: url(imgres.jpg) repeat-x;
+  background: url(imgres.jpg) ;
 
 }
 
@@ -20,5 +20,5 @@ header nav {
  float: left;
  width: 100px;
  height: auto;
- overflow: hidden; 
+ /*overflow: hidden; */
 }
