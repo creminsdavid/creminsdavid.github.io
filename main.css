@@ -13,4 +13,13 @@ header nav {
   display: flex;
   justify-content: flex-end;
   list-style-type: none;
+  list-style: none;
+}
+
+#contact li {
+ display: block;
+ float: left;
+ width: 30px;
+ height: 30px;
+ overflow: hidden;
 }
