@@ -1,6 +1,6 @@
-html {
+html, header, body {
    /* http://gradcolor.com/ */
-  background-image: url(imgres.jpg);background-repeat:repeat-x;
+  background: url(imgres.jpg) repeat-x;
 }
 
 header h1 {
