@@ -1,7 +1,6 @@
 header, body { /* may not need body, may extend w/ more content? */
    /* http://gradcolor.com/ */
-  background: url(imgres.jpg) ;
-
+  background: url(imgres.jpg) repeat-x ;
 }
 
 header h1 {
@@ -16,9 +15,9 @@ header nav {
 
 #contact li {
  padding: 25px 25px 25px 25px;
- display: block;
+ display: inline;
  float: left;
- width: 100px;
+ max-width: 100%;
  height: auto;
  /*overflow: hidden; */
 }
