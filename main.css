@@ -16,8 +16,8 @@ header nav {
 #contact li {
  padding: 25px 25px 25px 25px;
  display: block; /* vs. inline */
- float: right;
+ float: left;
  width: 30 px; /* max-width 100% */
  height: 30 px; /*auto*/
- /*overflow: hidden; */
+ overflow: hidden; 
 }
