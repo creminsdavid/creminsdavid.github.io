@@ -9,10 +9,11 @@ header h1 {
 }
 
 header nav {
+  display: block;
   padding: 20px 0;
   font-family: 'Baskerville', sans-serif;
-  /*display: flex;
-  justify-content: flex-end; */
+  display: flex;
+  justify-content: flex-end;
 }
 
 #contact li {
