@@ -3,9 +3,15 @@ header, body { /* may not need body, may extend w/ more content? */
   background: url(imgres.jpg) repeat-x ;
 }
 
-header h1, header h2 {
+header h1 {
   font-family: 'Baskerville', sans-serif;
   padding: 20px 0;
+}
+
+header h2 {
+  font-family: 'Baskerville', sans-serif;
+  padding: 20px 0;
+  font-size: 12;
 }
 
 header nav {
