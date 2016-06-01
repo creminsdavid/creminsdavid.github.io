@@ -3,7 +3,7 @@ header, body { /* may not need body, may extend w/ more content? */
   background: url(imgres.jpg) repeat-x ;
 }
 
-header h1 {
+header h1, h2 {
   font-family: 'Baskerville', sans-serif;
   padding: 20px 0;
 }
