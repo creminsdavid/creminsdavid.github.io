@@ -9,6 +9,7 @@ header h1 {
 }
 
 header nav {
+  margin: 0;
   display: block;
   padding: 20px 0;
   font-family: 'Baskerville', sans-serif;
