@@ -11,8 +11,8 @@ header h1 {
 header h2 {
   font-family: 'Baskerville', sans-serif;
   padding: 20px 0;
-  font-size: small;
-  text-align: center; 
+  font-size:  medium;
+  text-align: center;
 }
 
 header nav {
