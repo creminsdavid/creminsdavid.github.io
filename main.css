@@ -32,7 +32,7 @@ header nav {
 }
 
 #contact li {
- padding: 25px;
+ /*padding: 25px;*/
  display: block; /* vs. inline */
  float: left;
  width: 30 px; /* max-width 100% */
