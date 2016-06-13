@@ -17,7 +17,7 @@ header h2, p{
 
 footer h3{
   font-family: 'Baskerville', sans-serif;
-  text-align: center;
+  text-align: left;
   font-size: medium;
 }
 
@@ -38,7 +38,7 @@ header nav {
 }
 
 #contact li {
- display: inline-block; 
+ display: inline-block;
  float: none;
  overflow: hidden;
 }
