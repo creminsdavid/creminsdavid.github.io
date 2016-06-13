@@ -26,8 +26,9 @@ header nav {
 
 #GA li {
   float: left;
-  /* color: black */
-
+  /* color: black grid */
+  display: inline-block;
+  padding: 25px 25px 25px 25px;
 }
 
 #contact li {
