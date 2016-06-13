@@ -24,6 +24,12 @@ header nav {
   justify-content: flex-end;
 }
 
+#GA li {
+  float: left;
+  /* color: black */
+
+}
+
 #contact li {
  padding: 25px 25px 25px 25px;
  display: block; /* vs. inline */
