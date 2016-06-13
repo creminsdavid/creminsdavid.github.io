@@ -9,9 +9,14 @@ header h1 {
   padding: 20px 0;
 }
 
-header h2, p, h3 {
+header h2, p{
   font-family: 'Baskerville', sans-serif;
   /*padding: 20px 0;*/
+  text-align: center;
+}
+
+footer h3{
+  font-family: 'Baskerville', sans-serif;
   text-align: center;
 }
 
@@ -32,8 +37,7 @@ header nav {
 }
 
 #contact li {
- padding: 25px 25px 25px 25px;
  display: inline-block; /* vs. inline... */
- float: left;
+ /*float: left;*/
  overflow: hidden;
 }
