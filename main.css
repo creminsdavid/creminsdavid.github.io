@@ -39,6 +39,6 @@ header nav {
 
 #contact li {
  display: inline-block; /* vs. inline... */
- float: none;
+ float: right;
  overflow: hidden;
 }
