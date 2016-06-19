@@ -40,7 +40,7 @@ header nav {
 #about_info li {
   float: none;
   display: inline-block;
-  padding: 25px 25px 25px 25px;
+  padding: 25px 25px 25px 15px;
 }
 
 #contact li {
