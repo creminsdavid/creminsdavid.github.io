@@ -39,7 +39,8 @@ header nav {
 #about_info li {
   float: none;
   display: inline-block;
-  padding: 25px 25px 15px 25px;
+  padding: 15px 25px 10px 25px;
+  font-family: 'Baskerville', sans-serif;
 }
 
 #contact li {
