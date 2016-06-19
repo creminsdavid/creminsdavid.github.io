@@ -37,6 +37,12 @@ header nav {
   padding: 25px 25px 25px 25px;
 }
 
+#about_info li {
+  float: none;
+  display: inline-block;
+  padding: 25px 25px 25px 25px;
+}
+
 #contact li {
  display: inline-block;
  float: none;
