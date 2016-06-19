@@ -32,7 +32,6 @@ header nav {
 
 #GA li {
   float: left;
-  /* color: black grid */
   display: inline-block;
   padding: 25px 25px 25px 25px;
 }
@@ -40,7 +39,7 @@ header nav {
 #about_info li {
   float: none;
   display: inline-block;
-  padding: 25px 25px 25px 15px;
+  padding: 25px 25px 15px 25px;
 }
 
 #contact li {
