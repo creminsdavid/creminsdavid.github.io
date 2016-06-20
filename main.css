@@ -51,10 +51,11 @@ header nav {
 }
 
 #contact li {
- display: inline-grid;
+ display:inline-block;
  float: none;
  overflow: hidden;
  padding: 25px 25px 10px 25px;
+ text-align: left;
 }
 
 
