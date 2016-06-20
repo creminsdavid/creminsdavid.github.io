@@ -51,6 +51,14 @@ header nav {
 }
 
 #contact li {
+ display: block;
+ float: left;
+ overflow: hidden;
+ padding: 25px 25px 10px 25px;
+}
+
+
+#OLDcontact li {
  display: inline-block;
  float: none;
  overflow: hidden;
