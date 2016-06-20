@@ -52,9 +52,9 @@ header nav {
 
 #contact li {
  display: flex;
- justify-content: flex-end;
- float: left;
+ float: none;
  overflow: hidden;
+ padding: 25px 25px 10px 25px;
 }
 
 
