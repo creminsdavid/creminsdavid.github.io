@@ -1,5 +1,5 @@
 
-header { /* REMOVED body */
+body { /* REMOVED header */
    /* http://gradcolor.com/ */
   background: url(imgres.jpg) repeat-x ;
 }
@@ -9,10 +9,11 @@ header h1 {
   padding: 20px 0;
 }
 
-/* header h2, p{
+h2, p{ /* REMOVED header */
   font-family: 'Baskerville', sans-serif;
-  /*padding: 20px 0; text-align: center;
-} */
+  padding: 20px 0;
+  text-align: center;
+}
 
 header nav {
   margin: 0;
