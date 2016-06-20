@@ -1,8 +1,11 @@
 
-body { /* REMOVED header */
+html {
+  margin: 10px;
+}
+
+body {
    /* http://gradcolor.com/ */
   background: url(imgres.jpg) repeat-x;
-  margin: 10px;
 }
 
 header h1{
