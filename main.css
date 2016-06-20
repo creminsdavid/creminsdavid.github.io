@@ -9,7 +9,7 @@ header h1{
   padding: 20px 0;
 }
 
-body { /* REMOVED header, h2, p */
+body h2, p{ /* REMOVED header, h2, p */
   font-family: 'Baskerville', sans-serif;
   padding: 20px 0;
   text-align: center;
