@@ -1,5 +1,5 @@
 
-header, body { /* may not need body, may extend w/ more content? */
+header { /* REMOVED body */
    /* http://gradcolor.com/ */
   background: url(imgres.jpg) repeat-x ;
 }
@@ -9,17 +9,10 @@ header h1 {
   padding: 20px 0;
 }
 
-header h2, p{
+/* header h2, p{
   font-family: 'Baskerville', sans-serif;
-  /*padding: 20px 0;*/
-  text-align: center;
-}
-
-footer h3{
-  font-family: 'Baskerville', sans-serif;
-  text-align: left;
-  font-size: medium;
-}
+  /*padding: 20px 0; text-align: center;
+} */
 
 header nav {
   margin: 0;
