@@ -51,10 +51,10 @@ header nav {
 }
 
 #contact li {
- display: block;
+ display: flex;
+ justify-content: flex-end;
  float: left;
  overflow: hidden;
- padding: 25px 25px 10px 25px;
 }
 
 
