@@ -7,14 +7,12 @@ body { /* REMOVED header */
 header h1{
   font-family: 'Baskerville', sans-serif;
   padding: 20px 0;
-  display: flex;
 }
 
 body h2, p{ /* REMOVED header */
   font-family: 'Baskerville', sans-serif;
-  padding: 10px, 10px, 10px, 10px;
+  padding: 20px, 20px, 20px, 20px;
   text-align: center;
-  display: flex;
 }
 
 header nav {
