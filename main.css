@@ -30,15 +30,18 @@ header nav {
 }
 
 #GA li {
-  float: left;
+  float: none;
   display: inline-block;
   padding: 25px 25px 25px 25px;
+  text-align: center;
+  font-family: 'Baskerville', sans-serif;
 }
 
 #papers li {
   float: none;
   display: block;
   text-align: center;
+  font-family: 'Baskerville', sans-serif;
 }
 
 #about_info li {
