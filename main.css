@@ -7,14 +7,14 @@ body { /* REMOVED header */
 header h1{
   font-family: 'Baskerville', sans-serif;
   padding: 20px 0;
-  justify-content: flex-end;
+  display: flex;
 }
 
 body h2, p{ /* REMOVED header */
   font-family: 'Baskerville', sans-serif;
   padding: 10px, 10px, 10px, 10px;
   text-align: center;
-  justify-content: flex-end;
+  display: flex;
 }
 
 header nav {
@@ -41,7 +41,7 @@ header nav {
 
 #contact li {
  display: inline-block;
- float: left;
+ float: none;
  overflow: hidden;
  padding: 25px 25px 10px 25px;
 }
