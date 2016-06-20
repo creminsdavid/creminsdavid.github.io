@@ -30,6 +30,12 @@ header nav {
   padding: 25px 25px 25px 25px;
 }
 
+#papers li {
+  float: none;
+  display: block;
+  text-align: center;
+}
+
 #about_info li {
   float: none;
   display: inline-block;
