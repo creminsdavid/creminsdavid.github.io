@@ -4,15 +4,17 @@ body { /* REMOVED header */
   background: url(imgres.jpg) repeat-x ;
 }
 
-header h1{ 
+header h1{
   font-family: 'Baskerville', sans-serif;
   padding: 20px 0;
+  justify-content: flex-end;
 }
 
 body h2, p{ /* REMOVED header */
   font-family: 'Baskerville', sans-serif;
   padding: 10px, 10px, 10px, 10px;
   text-align: center;
+  justify-content: flex-end;
 }
 
 header nav {
@@ -39,7 +41,7 @@ header nav {
 
 #contact li {
  display: inline-block;
- float: none;
+ float: left;
  overflow: hidden;
  padding: 25px 25px 10px 25px;
 }
