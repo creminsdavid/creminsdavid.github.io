@@ -11,7 +11,7 @@ header h1{
 
 body { /* REMOVED header, h2, p */
   font-family: 'Baskerville', sans-serif;
-  padding: 20px, 0;
+  padding: 20px 0;
   text-align: center;
 }
 
