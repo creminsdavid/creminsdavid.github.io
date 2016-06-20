@@ -57,11 +57,3 @@ header nav {
  padding: 25px;
  text-align: center;
 }
-
-
-#OLDcontact li {
- display: inline-block;
- float: none;
- overflow: hidden;
- padding: 25px 25px 10px 25px;
-}
