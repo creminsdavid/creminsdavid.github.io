@@ -17,6 +17,7 @@ body h2, body p{
 body h3 {
   font-family: 'Baskerville', sans-serif;
   padding: 10px, 10px, 10px, 10px;
+  margin: auto;
 }
 
 header nav {
