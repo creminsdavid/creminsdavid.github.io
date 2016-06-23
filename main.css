@@ -28,10 +28,10 @@ header nav {
   color: #E47833;
 }
 
-a img {
+body img {
   display: block;
   margin: auto;
-  text-align: center;
+  justify-content: center;
 }
 
 #GA li {
