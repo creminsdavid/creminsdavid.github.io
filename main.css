@@ -22,10 +22,10 @@ body h3 {
 
 header nav {
   margin: 0;
-  display: block;
   padding: 10px;
   font-family: 'Baskerville', sans-serif;
   display: flex;
+  justify-content: center;
   color: #E47833;
 }
 
