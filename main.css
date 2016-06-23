@@ -24,7 +24,7 @@ header nav {
   margin: 0;
   padding: 10px;
   font-family: 'Baskerville', sans-serif;
-  display: inline-flex;
+  display: inline-block;
   text-align: right;
   color: #E47833;
 }
