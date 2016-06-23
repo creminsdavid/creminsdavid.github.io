@@ -12,12 +12,17 @@ header h1{
 body h2, body p{
   font-family: 'Baskerville', sans-serif;
   text-align: center;
+  padding: 10px, 10px, 10px, 10px;
 }
 
 body h3 {
   font-family: 'Baskerville', sans-serif;
   padding: 10px, 10px, 10px, 10px;
   margin: auto;
+}
+
+#paper_header {
+
 }
 
 header nav {
