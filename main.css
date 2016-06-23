@@ -28,6 +28,11 @@ header nav {
   color: #E47833;
 }
 
+a img {
+  display: block;
+  margin: auto;
+}
+
 #GA li {
   float: none;
   display: block;
