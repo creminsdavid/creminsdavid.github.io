@@ -22,7 +22,9 @@ body h3 {
 }
 
 #paper_header {
-
+  font-family: 'Baskerville', sans-serif;
+  padding: 10px, 10px, 10px, 10px;
+  margin: auto;
 }
 
 header nav {
