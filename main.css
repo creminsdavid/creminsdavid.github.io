@@ -60,6 +60,7 @@ body img {
  display:inline-block;
  float: none;
  overflow: hidden;
- padding: 25px;
- text-align: center;
+ padding: 15px;
+ justify-content: center;
+ margin: auto;
 }
