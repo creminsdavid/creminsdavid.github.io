@@ -33,7 +33,7 @@ header nav {
 body img {
   display: block;
   margin: auto, auto;
-  display: inline-flex;
+  display: flex;
   justify-content: center;
   transition: width 0.7s ease-out;
   align-items: center;
