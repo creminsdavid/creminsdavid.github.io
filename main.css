@@ -42,7 +42,7 @@ body img {
 
 #papers li {
   float: none;
-  display:inline-flex;
+  display: inline-block;
   text-align: center;
   justify-content: center;
   font-family: 'Baskerville', sans-serif;
