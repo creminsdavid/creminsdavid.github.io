@@ -35,8 +35,7 @@ body img {
   margin: auto, auto;
   display: flex;
   justify-content: center;
-  transition: width 0.7s ease-out;
-  align-items: center;
+  align-items:baseline;
 }
 
 #GA li {
