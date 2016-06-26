@@ -44,6 +44,7 @@ body img {
   float: none;
   display: inline-block;
   text-align: center;
+  justify-content: center;
   font-family: 'Baskerville', sans-serif;
 }
 
