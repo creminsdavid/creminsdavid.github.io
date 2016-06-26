@@ -23,11 +23,10 @@ body h3 {
 }
 
 header nav {
-  margin: 0;
   padding: 10px;
   font-family: 'Baskerville', sans-serif;
-  display: inline-block;
-  text-align: right;
+  display: flex;
+  justify-content: center;
   color: #E47833;
 }
 
