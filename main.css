@@ -19,14 +19,13 @@ body h2, body p{
 body h3 {
   font-family: 'Baskerville', sans-serif;
   padding: 10px, 10px, 10px, 10px;
-  margin: auto;
 }
 
 header nav {
   padding: 10px;
   font-family: 'Baskerville', sans-serif;
-  display: flex;
-  justify-content: center;
+  display: inline-block;
+  text-align: right;
   color: #E47833;
 }
 
