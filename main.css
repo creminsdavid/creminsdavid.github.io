@@ -42,9 +42,9 @@ body img {
 
 #papers li {
   float: none;
-  display: inline-block;
+  display: block;
   text-align: center;
-  justify-content: center;
+  justify-content: space-between;
   font-family: 'Baskerville', sans-serif;
 }
 
