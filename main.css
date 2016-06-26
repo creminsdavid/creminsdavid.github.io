@@ -32,7 +32,7 @@ header nav {
 
 body img {
   display: block;
-  margin: auto;
+  margin: auto, auto;
   display: flex;
   justify-content: center;
 }
