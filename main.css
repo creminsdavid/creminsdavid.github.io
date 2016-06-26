@@ -3,6 +3,8 @@ body {
    /* http://gradcolor.com/
    border: 25px solid navy; */
   background: url(imgres.jpg) repeat-x;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 header h1{
