@@ -2,6 +2,7 @@
 body {
    /* http://gradcolor.com/ */
   background: url(imgres.jpg) repeat-x;
+  border: 25px solid navy;
 }
 
 header h1{
@@ -18,7 +19,7 @@ body h2, body p{
 body h3 {
   font-family: 'Baskerville', sans-serif;
   padding: 10px, 10px, 10px, 10px;
-  margin: 10px, auto;
+  margin: auto;
 }
 
 header nav {
