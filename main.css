@@ -35,7 +35,7 @@ body img {
   align-items: flex-start;
 }
 
-#GA li {
+#GA li, #pubs li {
   float: none;
   display: block;
   text-align: center;
