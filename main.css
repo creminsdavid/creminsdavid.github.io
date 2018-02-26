@@ -3,7 +3,7 @@ body {
    /* http://gradcolor.com/
    border: 25px solid navy; */
   background: url(imgres.jpg) repeat-x;
-  height: 100%;
+  /*height: 100%; */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
